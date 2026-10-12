@@ -2,7 +2,7 @@
 
 English-language roles in Germany, Austria, and Switzerland. Titles that look intern, student, or senior are left out.
 
-142 jobs · updated 2026-10-11 · source: [Jobs without German](https://www.jobswithoutgerman.de/)
+142 jobs · updated 2026-10-12 · source: [Jobs without German](https://www.jobswithoutgerman.de/)
 
 The same list is in [entry level jobs.csv](entry%20level%20jobs.csv).
 
