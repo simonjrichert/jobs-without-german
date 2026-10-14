@@ -2,7 +2,7 @@
 
 English-language roles in Germany, Austria, and Switzerland. Titles that look intern, student, or senior are left out.
 
-142 jobs · updated 2026-10-12 · source: [Jobs without German](https://www.jobswithoutgerman.de/)
+145 jobs · updated 2026-10-14 · source: [Jobs without German](https://www.jobswithoutgerman.de/)
 
 The same list is in [entry level jobs.csv](entry%20level%20jobs.csv).
 
@@ -150,3 +150,6 @@ The same list is in [entry level jobs.csv](entry%20level%20jobs.csv).
 | [MEP Project Manager (m/f/d) QA/QC - Data Centres](https://www.jobswithoutgerman.de/job/mep-project-manager-m-f-d-qa-qc-data-centres-turner-townsend-744000152911395/) | Turner & Townsend | Düsseldorf | English works, German helps | Project manager |
 | [Project Manager Tech Governance & Compliance (m/f/d)](https://www.jobswithoutgerman.de/job/project-manager-tech-governance-compliance-m-f-d-sixt-744000139637570/) | SIXT | Munich | No German asked for | Project manager |
 | [Programme Manager](https://www.jobswithoutgerman.de/job/programme-manager-helsing-4636978101/) | Helsing | Munich | No German asked for | Project manager |
+| [SAP Treasury Functional Consultant - Digital Platforms - Germany](https://www.jobswithoutgerman.de/job/sap-treasury-functional-consultant-digital-platforms-germany-infosys-consulting-b53be8b33a/) | Infosys Consulting | Munich | No German asked for | Finance & Legal |
+| [Finance Controller, Technology](https://www.jobswithoutgerman.de/job/finance-controller-technology-delivery-hero-744000154979749/) | Delivery Hero | Berlin | No German asked for | Finance & Legal |
+| [Technical Program Manager (F/M/D)](https://www.jobswithoutgerman.de/job/technical-program-manager-f-m-d-animore-f4e792cf90/) | Animore | Munich | No German asked for | Project manager |
